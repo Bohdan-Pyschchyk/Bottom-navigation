@@ -8,7 +8,7 @@ export const links = [
   {
     id: 2,
     title: 'Info 1',
-    icon: 'http://store-images.s-microsoft.com/image/apps.31997.13510798887167234.6cd52261-a276-49cf-9b6b-9ef8491fb799.30e70ce4-33c5-43d6-9af1-491fe4679377',
+    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdS5oUkisMQiNvt17Nt6cqkitAbJuX03w53g&usqp=CAU',
     adress: '#info1',
   },
   {
