@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(237, 228, 228);
+
+  &__title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+
+    color: black;
+  }
+
+  &__text {
+    padding: 0 20px 0 20px;
+
+    color: black;
+  }
+}
