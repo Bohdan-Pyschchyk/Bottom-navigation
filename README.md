@@ -1,9 +1,7 @@
-# React TypeScript Starter Pack
+[LINK](https://bohdan-pyschchyk.github.io/Bottom-navigation/)
 
-To use this template click `Use this template`
+I'm using :
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+- React Hook Form
+- TypeScript
+- CSS and HTML
